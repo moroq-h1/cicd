@@ -1,0 +1,13 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
