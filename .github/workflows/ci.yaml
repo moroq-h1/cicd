@@ -1,7 +1,11 @@
 name: CI
 
 on:
+<<<<<<< HEAD
   pull_request:
+=======
+  pull_request_target:
+>>>>>>> 941afd01c9d4292c3bbc37dd7a02c0151c0ee196
 
 permissions:
   contents: read
